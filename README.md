@@ -1,5 +1,6 @@
 # Representation-Learning-for-NLP
 
+### Open Repository in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/varunp2k/Representation-Learning-for-NLP/blob/master)
 Repo for [Representation-Learning](https://www.slideshare.net/anujgupta5095/representation-learning-for-nlp)
 
 It has 4 modules:
